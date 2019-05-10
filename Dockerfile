@@ -2,7 +2,7 @@
 FROM python:3.5
 
 # File Author / Maintainer
-MAINTAINER Hari
+MAINTAINER Hariram Jeyaraman
 
 # Copy source file and python req's
 COPY hello.py /usr/src/app/
